@@ -42,7 +42,7 @@
       "not op_mini all"
     ],
     "engines": {
-      "node": "12.x"
+      "node": "12.16.2"
     },
     "development": [
       "last 1 chrome version",
